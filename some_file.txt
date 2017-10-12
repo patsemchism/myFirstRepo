@@ -1,1 +1,3 @@
-Some TXT in the file
+Some TXT in the file.
+
+Here is some more TXT.
